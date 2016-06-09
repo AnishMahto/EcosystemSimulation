@@ -10,3 +10,5 @@ Ecosystem: grass, grasshopper, rabbit, mouse, snake, kookaburra, eagle
 The initial generation is based off of random numbers, so you will get a different population every time you open up the program. The basis of whether an animal survives, dies, and/or how many it can reproduce is set with values. 
 
 Keep in mind I had no intention of making an efficient program, as this was just for fun :)
+
+*I reccommend running the program in some live console, such as the one on repl.it
