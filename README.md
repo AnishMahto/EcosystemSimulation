@@ -1,7 +1,7 @@
 # EcosystemSimulation
 Inspired by Conway's Game of Life
 
-Probably the largest single program I've made so far (700 lines, give or take)
+Probably the largest single program I've made so far (800 lines, give or take)
 
 Originally created for use as a small science fair project. It just takes the following ecosystem and simulates it over generations (you can choose how many ecosystems to generate at a time, or enter 0 to end program. Can generate roughly 15 generations in one shot before lagging). 
 
